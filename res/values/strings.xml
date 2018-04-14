@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Import CSV</string>
+    <string name="upload_csv">Upload CSV</string>
+    <string name="print_database">Print Database</string>
+    <string name="rule_text">Must have file named \'yellow.csv\' in your Download folder</string>
+</resources>
